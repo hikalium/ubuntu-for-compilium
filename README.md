@@ -1,3 +1,7 @@
+# ubuntu-for-compilium
+
+Docker image for compilium CI.
+
 ```
 docker run -it <image id>
 docker image ls
