@@ -1,6 +1,6 @@
 # ubuntu-for-compilium
 
-Docker image for compilium CI.
+Docker image for [compilium](https://github.com/hikalium/compilium) CI.
 
 ```
 docker run -it <image id>
